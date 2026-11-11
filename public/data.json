@@ -1,0 +1,47 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "rating": 9.5,
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium",
+    "img": "https://example.com/images/virat-kohli.jpg",
+    "price": 2000000
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "rating": 9.3,
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm offbreak",
+    "img": "https://example.com/images/babar-azam.jpg",
+    "price": 1800000
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "rating": 9.0,
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "img": "https://example.com/images/shakib-al-hasan.jpg",
+    "price": 1500000
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "rating": 9.2,
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm legbreak",
+    "img": "https://example.com/images/steve-smith.jpg",
+    "price": 1700000
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "rating": 9.1,
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm offbreak",
+    "img": "https://example.com/images/joe-root.jpg",
+    "price": 1600000
+  }
+]
